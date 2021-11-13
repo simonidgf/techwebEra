@@ -1,0 +1,57 @@
+Ico ERA
+Nav > Comprar, Arrendar, Vender, ERA Radar, Carreiras, Vantagens, Contactos, Icon-Heart, Icon-Timer, Icon-Perfil, Icon-Message
+
+A Garantia ERA Protege a sua Nova Casa, mesmo que a casa nao seja nova
+
+input > COMBOBOX(Comprar, Arrendar), input, Encontrar, Search Button
+
+Header > Destaques
+Nav> Todos, Garantia Era, Exclusive, Empreendimentos, Visita Virtual
+
+Header > Quem compra ou vende uma casa com a ERA tem mais vantagens.
+
+<Nav>
+	Garantia ERA > Uma garantia ofericida pela ERA que garante ao comprador reparacoes no imovel em caso de necessidade.
+	Certificado Energetico > Garantia ERA agora com +1 vantagem: uma parceria ERA | EDP que garante o certificado energético, obrigatório para anunciar a casa, e pagá-lo depois na sua...
+	Oportunidades obra nova ERA > É a maior seleção de novos empreendimentos em território nacional. Projetos desenhados ao detalhe, com os mais exigentes padrões de qualidade. Uma oportunidade...
+	Casas a Estrear > Uma seleção ERA de Casas Novas, para quem prefere viver todas as vantagens de uma casa a estrear.
+</Nav>
+
+Header > Pesquisas mais frequentes
+ApartamentosLisboa, Amadora, Sintra, Almada, Gondomar, Maia, Porto, Seixal, Cascais, GuardaMoradiasPonta Delgada, Bragança, Évora, Almada, Mafra, Vila Nova de Gaia, Matosinhos, Sintra, 
+Amares, AzambujaTerrenosÁgueda, Ponte de Lima, Proença-a-Nova, Barcelos, Amares, Esposende, Marco de Canaveses, Guarda, Tomar, AlcoutimLojasAnadia, Guarda, Bragança, Braga, Lisboa, 
+Oliveira do Bairro, Figueira da Foz, Lamego, Lourinhã, FaroQuintas e HerdadesLisboa, Ribeira Grande, Penamacor, Évora, Castelo Branco, Lagoa (São Miguel), Odemira, Felgueiras, Ponta Delgada, 
+GrândolaImóveis com NegócioTrofa, Ponta Delgada, Vila Real, Lousada, Santarém, Bragança, Palmela, Miranda do Douro, Póvoa de Varzim, Terras de Bouro
+
+
+Nav > Venda o seu imovel,  Crie um anúncio e coloque o seu imóvel à venda na melhor imobiliária do país., Button(Criar Anuncio)
+
+<Nav> 
+
+Imóveis
+Comprar
+Arrendar
+Vender
+ERA Radar
+O que procura?
+ERA Portugal
+Quem Somos
+Agências
+Carreiras
+Ajude-nos a melhorar
+Contactos
+Franchising
+Recrutamos os melhores
+Modelo de liderança
+Contacte-nos
+Vantagens
+Avaliação de imóveis
+Garantia ERA
+Obra Nova ERA
+Mais Vantagens
+Media
+ERA Business Accelerator
+
+</Nav>
+
+
