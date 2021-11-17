@@ -1,3 +1,29 @@
+*{
+	font-style: sans-serif;
+}
+
+.topNav{
+	width: 70%;
+	flex: 1;
+	border-color: black;
+}
+
+.topNav #boldInlist{
+	font-weight: bold;
+}
+
+.topNav li{
+	margin: 3px;
+	padding: 7px;
+}
+
+.topNav #listNav{
+	padding-left: 25px;
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-around;
+	list-style-type: none;
+}
 
 
 
