@@ -1,42 +1,46 @@
 body{
-	font-family: sans-serif;
-	font-size: 14px;
+	font-family: 'Open Sans',sans-serif;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 1rem;
+   line-height: 1.5rem;
 }
 
-.topNav{
-	width: 70%;
-	flex: 1;
-	float: right;
-	margin-right: 4%
+.ContainerHead{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	height: 400px;
+	justify-content: center;
+	background-image: url(https://www.era.pt/Portals/0/01_Homepage/Homepage_banner_desktop_pt_BEM-VINDO-A-SUA-NOVA-CASA.png);
 }
 
-.topNav #boldInlist{
+.ContainerHead .ContainerLogo{
+	width: 60%;
+}
+
+.ContainerHead .ContainerLogo #dnn_dnnLOGO_imgLogo{
+	margin-right: 200px;
+	align-self: baseline;
+}
+
+.ContainerHead .ContainerNav{
+	width: 40%;
+	margin-right: 300px;
+}
+
+.ContainerHead .ContainerNav #listNav{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-self: flex-start;
+	justify-content: space-evenly;
+	list-style: none;
+}
+
+.ContainerHead .ContainerNav #boldInlist{
 	font-weight: bold;
 }
-
-.topNav li{
-	margin: 15px;
-	padding: 7px;
-}
-
-.topNav #listNav{
-	margin-top: 3px;
-	padding-left: 25px;
-	display: flex;
-	flex-direction: row-reverse;
-	justify-content: center;
-	list-style-type: none;
-}
-
-#logoERA_zoom{
-	width: 30%;
-	float: left;
-	height: 145px;
-	width: 145px;
-	margin: 10px;
-	margin-left: 10%;
-}
-
 
 
 

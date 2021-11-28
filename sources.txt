@@ -1,0 +1,3 @@
+image header : <img loading="lazy" src="https://www.era.pt/Portals/0/01_Homepage/Homepage_banner_desktop_pt_BEM-VINDO-A-SUA-NOVA-CASA.png" alt="BEM VINDO À SUA NOVA CASA">
+
+logo source : <img id="dnn_dnnLOGO_imgLogo" src="https://www.era.pt/Portals/0/10_Icones-e-Logo-ERA/ERA-Imobiliaria-Portugal.svg?ver=WTl9Qq9m6PpLQ276rMh6Vg%3d%3d" alt="My Website">
