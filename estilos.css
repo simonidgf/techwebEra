@@ -1,59 +1,48 @@
-body{
-	font-family: 'Open Sans',sans-serif;
-   font-style: normal;
-   font-weight: 400;
-   font-size: 1rem;
-   line-height: 1.5rem;
+html body {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-.ContainerHead{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	height: 400px;
-	justify-content: center;
-	background-image: url(https://www.era.pt/Portals/0/01_Homepage/Homepage_banner_desktop_pt_BEM-VINDO-A-SUA-NOVA-CASA.png);
+.ContainerHead {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
+  width: 100%;
 }
 
-.ContainerHead .ContainerLogo{
-	width: 60%;
+.ContainerHead .ContainerLogo img {
+  margin: 5px;
+  width: 100px;
 }
 
-.ContainerHead .ContainerLogo #dnn_dnnLOGO_imgLogo{
-	margin-right: 200px;
-	align-self: baseline;
+.ContainerHead .ContainerNav {
+  margin-left: 20%;
 }
 
-.ContainerHead .ContainerNav{
-	width: 40%;
-	margin-right: 300px;
+.ContainerHead .ContainerNav .listNav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
 }
 
-.ContainerHead .ContainerNav #listNav{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	align-self: flex-start;
-	justify-content: space-evenly;
-	list-style: none;
+.ContainerHead .ContainerNav .listNav #boldInlist {
+  font-weight: bold;
 }
 
-.ContainerHead .ContainerNav #boldInlist{
-	font-weight: bold;
+.ContainerHead .ContainerNav .listNav li {
+  color: #fff;
+  margin: 10px;
+  font-weight: 500;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Banner img {
+  width: 100%;
+  height: 700px;
+}
+/*# sourceMappingURL=estilos.css.map */
